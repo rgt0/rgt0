@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rgt0
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning pzthon, owl, AI, cloud,EDI,.....
+- 🌱 I’m currently learning python, owl, AI, cloud,EDI,.....
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me g.rozsnyai@t-systems.com
 
